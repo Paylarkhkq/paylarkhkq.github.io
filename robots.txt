@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://paylarkhkq.github.io/sitemap.xml
